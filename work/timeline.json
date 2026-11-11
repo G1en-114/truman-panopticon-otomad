@@ -1,0 +1,2707 @@
+{
+"spb": 0.344828,
+"pre": 16,
+"tokens": [
+{
+"cid": "c01",
+"nw": true,
+"syl": "We",
+"spk": "christof",
+"phrase": "A1",
+"t": 6.2069,
+"end": 6.3793,
+"beat": 2.0,
+"pitch": 49,
+"notes": [
+[
+2.0,
+0.5,
+49
+]
+]
+},
+{
+"cid": "c01",
+"nw": true,
+"syl": "ac",
+"spk": "christof",
+"phrase": "A1",
+"t": 6.3793,
+"end": 6.4667,
+"beat": 2.5,
+"pitch": 49,
+"notes": [
+[
+2.5,
+0.5,
+49
+]
+]
+},
+{
+"cid": "c01",
+"nw": false,
+"syl": "cept",
+"spk": "christof",
+"phrase": "A1",
+"t": 6.5517,
+"end": 6.8516,
+"beat": 3.0,
+"pitch": 63,
+"notes": [
+[
+3.0,
+1.0,
+63
+]
+]
+},
+{
+"cid": "c01",
+"nw": true,
+"syl": "the",
+"spk": "christof",
+"phrase": "A1",
+"t": 6.8966,
+"end": 7.054,
+"beat": 4.0,
+"pitch": 61,
+"notes": [
+[
+4.0,
+0.5,
+61
+]
+]
+},
+{
+"cid": "c01",
+"nw": true,
+"syl": "re",
+"spk": "christof",
+"phrase": "A1",
+"t": 7.069,
+"end": 7.2414,
+"beat": 4.5,
+"pitch": 54,
+"notes": [
+[
+4.5,
+0.5,
+54
+]
+]
+},
+{
+"cid": "c01",
+"nw": false,
+"syl": "al",
+"spk": "christof",
+"phrase": "A1",
+"t": 7.2414,
+"end": 7.4138,
+"beat": 5.0,
+"pitch": 56,
+"notes": [
+[
+5.0,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c01",
+"nw": false,
+"syl": "i",
+"spk": "christof",
+"phrase": "A1",
+"t": 7.4138,
+"end": 7.5862,
+"beat": 5.5,
+"pitch": 58,
+"notes": [
+[
+5.5,
+0.5,
+58
+]
+]
+},
+{
+"cid": "c01",
+"nw": false,
+"syl": "ty",
+"spk": "christof",
+"phrase": "A1",
+"t": 7.5862,
+"end": 7.931,
+"beat": 6.0,
+"pitch": 58,
+"notes": [
+[
+6.0,
+1.0,
+58
+]
+]
+},
+{
+"cid": "c01",
+"nw": true,
+"syl": "of",
+"spk": "christof",
+"phrase": "A1",
+"t": 7.931,
+"end": 8.0635,
+"beat": 7.0,
+"pitch": 56,
+"notes": [
+[
+7.0,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c01",
+"nw": true,
+"syl": "the",
+"spk": "christof",
+"phrase": "A1",
+"t": 8.1035,
+"end": 8.2409,
+"beat": 7.5,
+"pitch": 58,
+"notes": [
+[
+7.5,
+0.5,
+58
+]
+]
+},
+{
+"cid": "c01",
+"nw": true,
+"syl": "world",
+"spk": "christof",
+"phrase": "A1",
+"t": 8.2759,
+"end": 8.6057,
+"beat": 8.0,
+"pitch": 58,
+"notes": [
+[
+8.0,
+1.0,
+58
+]
+]
+},
+{
+"cid": "c01",
+"nw": true,
+"syl": "with",
+"spk": "christof",
+"phrase": "A1",
+"t": 8.6207,
+"end": 8.7581,
+"beat": 9.0,
+"pitch": 56,
+"notes": [
+[
+9.0,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c01",
+"nw": true,
+"syl": "which",
+"spk": "christof",
+"phrase": "A1",
+"t": 8.7931,
+"end": 8.9005,
+"beat": 9.5,
+"pitch": 58,
+"notes": [
+[
+9.5,
+0.5,
+58
+]
+]
+},
+{
+"cid": "c01",
+"nw": true,
+"syl": "we're",
+"spk": "christof",
+"phrase": "A1",
+"t": 8.9655,
+"end": 9.2654,
+"beat": 10.0,
+"pitch": 58,
+"notes": [
+[
+10.0,
+1.0,
+58
+]
+]
+},
+{
+"cid": "c01",
+"nw": true,
+"syl": "pre",
+"spk": "christof",
+"phrase": "A1",
+"t": 9.3104,
+"end": 9.4128,
+"beat": 11.0,
+"pitch": 56,
+"notes": [
+[
+11.0,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c01",
+"nw": false,
+"syl": "sent",
+"spk": "christof",
+"phrase": "A1",
+"t": 9.4828,
+"end": 9.8276,
+"beat": 11.5,
+"pitch": 58,
+"notes": [
+[
+11.5,
+1.0,
+58
+]
+]
+},
+{
+"cid": "c01",
+"nw": false,
+"syl": "ed",
+"spk": "christof",
+"phrase": "A1",
+"t": 9.8276,
+"end": 9.86,
+"beat": 12.5,
+"pitch": 56,
+"notes": [
+[
+12.5,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c02",
+"nw": true,
+"syl": "It's",
+"spk": "christof",
+"phrase": "A1",
+"t": 10.0,
+"end": 10.1724,
+"beat": 13.0,
+"pitch": 58,
+"notes": [
+[
+13.0,
+0.5,
+58
+]
+]
+},
+{
+"cid": "c02",
+"nw": true,
+"syl": "as",
+"spk": "christof",
+"phrase": "A1",
+"t": 10.1724,
+"end": 10.3448,
+"beat": 13.5,
+"pitch": 58,
+"notes": [
+[
+13.5,
+0.5,
+58
+]
+]
+},
+{
+"cid": "c02",
+"nw": true,
+"syl": "sim",
+"spk": "christof",
+"phrase": "A1",
+"t": 10.3448,
+"end": 10.4673,
+"beat": 14.0,
+"pitch": 56,
+"notes": [
+[
+14.0,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c02",
+"nw": false,
+"syl": "ple",
+"spk": "christof",
+"phrase": "A1",
+"t": 10.5173,
+"end": 10.6897,
+"beat": 14.5,
+"pitch": 56,
+"notes": [
+[
+14.5,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c02",
+"nw": true,
+"syl": "as",
+"spk": "christof",
+"phrase": "A1",
+"t": 10.6897,
+"end": 10.8221,
+"beat": 15.0,
+"pitch": 56,
+"notes": [
+[
+15.0,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c02",
+"nw": true,
+"syl": "that",
+"spk": "christof",
+"phrase": "A1",
+"t": 10.8621,
+"end": 10.9945,
+"beat": 15.5,
+"pitch": 58,
+"notes": [
+[
+15.5,
+0.5,
+58
+]
+]
+},
+{
+"cid": "c03",
+"nw": true,
+"syl": "It's",
+"spk": "marlon",
+"phrase": "A1",
+"t": 11.0345,
+"end": 11.2069,
+"beat": 16.0,
+"pitch": 56,
+"notes": [
+[
+16.0,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c03",
+"nw": true,
+"syl": "all",
+"spk": "marlon",
+"phrase": "A1",
+"t": 11.2069,
+"end": 11.3693,
+"beat": 16.5,
+"pitch": 54,
+"notes": [
+[
+16.5,
+0.5,
+54
+]
+]
+},
+{
+"cid": "c03",
+"nw": true,
+"syl": "real",
+"spk": "marlon",
+"phrase": "A1",
+"t": 11.3793,
+"end": 11.8966,
+"beat": 17.0,
+"pitch": 58,
+"notes": [
+[
+17.0,
+1.5,
+58
+]
+]
+},
+{
+"cid": "c04",
+"nw": true,
+"syl": "No",
+"spk": "christof",
+"phrase": "A1",
+"t": 12.069,
+"end": 12.2738,
+"beat": 19.0,
+"pitch": 54,
+"notes": [
+[
+19.0,
+1.0,
+54
+]
+]
+},
+{
+"cid": "c04",
+"nw": true,
+"syl": "scripts",
+"spk": "christof",
+"phrase": "A1",
+"t": 12.4138,
+"end": 12.5412,
+"beat": 20.0,
+"pitch": 54,
+"notes": [
+[
+20.0,
+0.5,
+54
+]
+]
+},
+{
+"cid": "c04",
+"nw": true,
+"syl": "no",
+"spk": "christof",
+"phrase": "A1",
+"t": 12.5862,
+"end": 12.6724,
+"beat": 20.5,
+"pitch": 54,
+"notes": [
+[
+20.5,
+0.5,
+54
+]
+]
+},
+{
+"cid": "c04",
+"nw": true,
+"syl": "cue",
+"spk": "christof",
+"phrase": "A1",
+"t": 12.7586,
+"end": 12.8448,
+"beat": 21.0,
+"pitch": 49,
+"notes": [
+[
+21.0,
+0.5,
+49
+]
+]
+},
+{
+"cid": "c04",
+"nw": true,
+"syl": "cards",
+"spk": "christof",
+"phrase": "A1",
+"t": 12.9311,
+"end": 13.2559,
+"beat": 21.5,
+"pitch": 54,
+"notes": [
+[
+21.5,
+1.0,
+54
+]
+]
+},
+{
+"cid": "c05",
+"nw": true,
+"syl": "it's",
+"spk": "christof",
+"phrase": "A1",
+"t": 13.2759,
+"end": 13.5345,
+"beat": 22.5,
+"pitch": 56,
+"notes": [
+[
+22.5,
+0.75,
+56
+]
+]
+},
+{
+"cid": "c05",
+"nw": true,
+"syl": "gen",
+"spk": "christof",
+"phrase": "A1",
+"t": 13.6207,
+"end": 13.7931,
+"beat": 23.5,
+"pitch": 54,
+"notes": [
+[
+23.5,
+0.5,
+54
+]
+]
+},
+{
+"cid": "c05",
+"nw": false,
+"syl": "u",
+"spk": "christof",
+"phrase": "A1",
+"t": 13.7931,
+"end": 13.9655,
+"beat": 24.0,
+"pitch": 56,
+"notes": [
+[
+24.0,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c05",
+"nw": false,
+"syl": "ine",
+"spk": "christof",
+"phrase": "A1",
+"t": 13.9655,
+"end": 14.1704,
+"beat": 24.5,
+"pitch": 58,
+"notes": [
+[
+24.5,
+1.0,
+58
+]
+]
+},
+{
+"cid": "c06",
+"nw": true,
+"syl": "Cue",
+"spk": "christof",
+"phrase": "A1",
+"t": 14.3104,
+"end": 14.4828,
+"beat": 25.5,
+"pitch": 56,
+"notes": [
+[
+25.5,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c06",
+"nw": true,
+"syl": "the",
+"spk": "christof",
+"phrase": "A1",
+"t": 14.4828,
+"end": 14.6552,
+"beat": 26.0,
+"pitch": 54,
+"notes": [
+[
+26.0,
+0.5,
+54
+]
+]
+},
+{
+"cid": "c06",
+"nw": true,
+"syl": "sun",
+"spk": "christof",
+"phrase": "A1",
+"t": 14.6552,
+"end": 16.2069,
+"beat": 26.5,
+"pitch": 58,
+"notes": [
+[
+26.5,
+4.5,
+58
+]
+]
+},
+{
+"cid": "c07",
+"nw": true,
+"syl": "Good",
+"spk": "truman",
+"phrase": "A2",
+"t": 17.069,
+"end": 17.2114,
+"beat": 33.5,
+"pitch": 61,
+"notes": [
+[
+33.5,
+0.5,
+61
+]
+]
+},
+{
+"cid": "c07",
+"nw": true,
+"syl": "mor",
+"spk": "truman",
+"phrase": "A2",
+"t": 17.2414,
+"end": 17.4138,
+"beat": 34.0,
+"pitch": 61,
+"notes": [
+[
+34.0,
+0.5,
+61
+]
+]
+},
+{
+"cid": "c07",
+"nw": false,
+"syl": "ning",
+"spk": "truman",
+"phrase": "A2",
+"t": 17.4138,
+"end": 17.5862,
+"beat": 34.5,
+"pitch": 61,
+"notes": [
+[
+34.5,
+0.5,
+61
+]
+]
+},
+{
+"cid": "c08",
+"nw": true,
+"syl": "oth",
+"spk": "radio",
+"phrase": "A2",
+"t": 17.5862,
+"end": 17.9311,
+"beat": 35.0,
+"pitch": 63,
+"notes": [
+[
+35.0,
+1.0,
+63
+]
+]
+},
+{
+"cid": "c08",
+"nw": false,
+"syl": "er",
+"spk": "radio",
+"phrase": "A2",
+"t": 17.9311,
+"end": 18.1609,
+"beat": 36.0,
+"pitch": 61,
+"notes": [
+[
+36.0,
+0.5,
+61
+],
+[
+36.5,
+0.5,
+54
+]
+]
+},
+{
+"cid": "c08",
+"nw": true,
+"syl": "beau",
+"spk": "radio",
+"phrase": "A2",
+"t": 18.2759,
+"end": 18.4483,
+"beat": 37.0,
+"pitch": 56,
+"notes": [
+[
+37.0,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c08",
+"nw": false,
+"syl": "ti",
+"spk": "radio",
+"phrase": "A2",
+"t": 18.4483,
+"end": 18.4914,
+"beat": 37.5,
+"pitch": 58,
+"notes": [
+[
+37.5,
+0.25,
+58
+]
+]
+},
+{
+"cid": "c08",
+"nw": false,
+"syl": "ful",
+"spk": "radio",
+"phrase": "A2",
+"t": 18.5345,
+"end": 18.5776,
+"beat": 37.75,
+"pitch": 58,
+"notes": [
+[
+37.75,
+0.25,
+58
+]
+]
+},
+{
+"cid": "c08",
+"nw": true,
+"syl": "day",
+"spk": "radio",
+"phrase": "A2",
+"t": 18.6207,
+"end": 19.138,
+"beat": 38.0,
+"pitch": 58,
+"notes": [
+[
+38.0,
+1.0,
+58
+],
+[
+39.0,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c08",
+"nw": true,
+"syl": "in",
+"spk": "radio",
+"phrase": "A2",
+"t": 19.138,
+"end": 19.2354,
+"beat": 39.5,
+"pitch": 58,
+"notes": [
+[
+39.5,
+0.5,
+58
+]
+]
+},
+{
+"cid": "c08",
+"nw": true,
+"syl": "par",
+"spk": "radio",
+"phrase": "A2",
+"t": 19.3104,
+"end": 19.6552,
+"beat": 40.0,
+"pitch": 58,
+"notes": [
+[
+40.0,
+1.0,
+58
+]
+]
+},
+{
+"cid": "c08",
+"nw": false,
+"syl": "a",
+"spk": "radio",
+"phrase": "A2",
+"t": 19.6552,
+"end": 19.8276,
+"beat": 41.0,
+"pitch": 56,
+"notes": [
+[
+41.0,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c08",
+"nw": false,
+"syl": "dise",
+"spk": "radio",
+"phrase": "A2",
+"t": 19.8276,
+"end": 19.99,
+"beat": 41.5,
+"pitch": 58,
+"notes": [
+[
+41.5,
+0.5,
+58
+]
+]
+},
+{
+"cid": "c10",
+"nw": true,
+"syl": "Oh",
+"spk": "truman",
+"phrase": "A2",
+"t": 20.0,
+"end": 20.3449,
+"beat": 42.0,
+"pitch": 58,
+"notes": [
+[
+42.0,
+1.0,
+58
+]
+]
+},
+{
+"cid": "c10",
+"nw": true,
+"syl": "and",
+"spk": "truman",
+"phrase": "A2",
+"t": 20.3449,
+"end": 20.4311,
+"beat": 43.0,
+"pitch": 56,
+"notes": [
+[
+43.0,
+0.25,
+56
+]
+]
+},
+{
+"cid": "c10",
+"nw": true,
+"syl": "in",
+"spk": "truman",
+"phrase": "A2",
+"t": 20.4311,
+"end": 20.4773,
+"beat": 43.25,
+"pitch": 56,
+"notes": [
+[
+43.25,
+0.25,
+56
+]
+]
+},
+{
+"cid": "c10",
+"nw": true,
+"syl": "case",
+"spk": "truman",
+"phrase": "A2",
+"t": 20.5173,
+"end": 20.8621,
+"beat": 43.5,
+"pitch": 58,
+"notes": [
+[
+43.5,
+1.0,
+58
+]
+]
+},
+{
+"cid": "c10",
+"nw": true,
+"syl": "I",
+"spk": "truman",
+"phrase": "A2",
+"t": 20.8621,
+"end": 21.0295,
+"beat": 44.5,
+"pitch": 56,
+"notes": [
+[
+44.5,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c10",
+"nw": true,
+"syl": "don't",
+"spk": "truman",
+"phrase": "A2",
+"t": 21.0345,
+"end": 21.2943,
+"beat": 45.0,
+"pitch": 58,
+"notes": [
+[
+45.0,
+1.0,
+58
+]
+]
+},
+{
+"cid": "c10",
+"nw": true,
+"syl": "see",
+"spk": "truman",
+"phrase": "A2",
+"t": 21.3793,
+"end": 21.5518,
+"beat": 46.0,
+"pitch": 56,
+"notes": [
+[
+46.0,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c10",
+"nw": true,
+"syl": "you",
+"spk": "truman",
+"phrase": "A2",
+"t": 21.5518,
+"end": 21.8166,
+"beat": 46.5,
+"pitch": 56,
+"notes": [
+[
+46.5,
+1.0,
+56
+]
+]
+},
+{
+"cid": "c10",
+"nw": true,
+"syl": "good",
+"spk": "truman",
+"phrase": "A2",
+"t": 21.8966,
+"end": 22.069,
+"beat": 47.5,
+"pitch": 58,
+"notes": [
+[
+47.5,
+0.5,
+58
+]
+]
+},
+{
+"cid": "c10",
+"nw": true,
+"syl": "af",
+"spk": "truman",
+"phrase": "A2",
+"t": 22.069,
+"end": 22.1764,
+"beat": 48.0,
+"pitch": 56,
+"notes": [
+[
+48.0,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c10",
+"nw": false,
+"syl": "ter",
+"spk": "truman",
+"phrase": "A2",
+"t": 22.2414,
+"end": 22.4138,
+"beat": 48.5,
+"pitch": 54,
+"notes": [
+[
+48.5,
+0.5,
+54
+]
+]
+},
+{
+"cid": "c10",
+"nw": false,
+"syl": "noon",
+"spk": "truman",
+"phrase": "A2",
+"t": 22.4138,
+"end": 22.9311,
+"beat": 49.0,
+"pitch": 58,
+"notes": [
+[
+49.0,
+1.5,
+58
+]
+]
+},
+{
+"cid": "c11",
+"nw": true,
+"syl": "good",
+"spk": "truman",
+"phrase": "A2",
+"t": 23.1035,
+"end": 23.4483,
+"beat": 51.0,
+"pitch": 54,
+"notes": [
+[
+51.0,
+1.0,
+54
+]
+]
+},
+{
+"cid": "c11",
+"nw": true,
+"syl": "eve",
+"spk": "truman",
+"phrase": "A2",
+"t": 23.4483,
+"end": 23.6007,
+"beat": 52.0,
+"pitch": 54,
+"notes": [
+[
+52.0,
+0.5,
+54
+]
+]
+},
+{
+"cid": "c11",
+"nw": false,
+"syl": "ning",
+"spk": "truman",
+"phrase": "A2",
+"t": 23.6207,
+"end": 23.7931,
+"beat": 52.5,
+"pitch": 54,
+"notes": [
+[
+52.5,
+0.5,
+54
+]
+]
+},
+{
+"cid": "c11",
+"nw": true,
+"syl": "and",
+"spk": "truman",
+"phrase": "A2",
+"t": 23.7931,
+"end": 23.9105,
+"beat": 53.0,
+"pitch": 53,
+"notes": [
+[
+53.0,
+0.5,
+53
+]
+]
+},
+{
+"cid": "c11",
+"nw": true,
+"syl": "good",
+"spk": "truman",
+"phrase": "A2",
+"t": 23.9655,
+"end": 24.3104,
+"beat": 53.5,
+"pitch": 54,
+"notes": [
+[
+53.5,
+1.0,
+54
+]
+]
+},
+{
+"cid": "c11",
+"nw": true,
+"syl": "night",
+"spk": "truman",
+"phrase": "A2",
+"t": 24.3104,
+"end": 25.5173,
+"beat": 54.5,
+"pitch": 56,
+"notes": [
+[
+54.5,
+3.5,
+56
+]
+]
+},
+{
+"cid": "c12",
+"nw": true,
+"syl": "Tru",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 25.8621,
+"end": 26.2069,
+"beat": 59.0,
+"pitch": 63,
+"notes": [
+[
+59.0,
+1.0,
+63
+]
+]
+},
+{
+"cid": "c12",
+"nw": false,
+"syl": "man",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 26.2069,
+"end": 26.3793,
+"beat": 60.0,
+"pitch": 61,
+"notes": [
+[
+60.0,
+0.5,
+61
+]
+]
+},
+{
+"cid": "c13",
+"nw": true,
+"syl": "Lis",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 26.3793,
+"end": 26.4718,
+"beat": 60.5,
+"pitch": 54,
+"notes": [
+[
+60.5,
+0.5,
+54
+]
+]
+},
+{
+"cid": "c13",
+"nw": false,
+"syl": "ten",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 26.5518,
+"end": 26.6592,
+"beat": 61.0,
+"pitch": 56,
+"notes": [
+[
+61.0,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c13",
+"nw": true,
+"syl": "to",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 26.7242,
+"end": 26.8966,
+"beat": 61.5,
+"pitch": 58,
+"notes": [
+[
+61.5,
+0.5,
+58
+]
+]
+},
+{
+"cid": "c13",
+"nw": true,
+"syl": "me",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 26.8966,
+"end": 27.2414,
+"beat": 62.0,
+"pitch": 58,
+"notes": [
+[
+62.0,
+1.0,
+58
+]
+]
+},
+{
+"cid": "c14",
+"nw": true,
+"syl": "Ev",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 27.2414,
+"end": 27.3688,
+"beat": 63.0,
+"pitch": 56,
+"notes": [
+[
+63.0,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c14",
+"nw": false,
+"syl": "ery",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 27.4138,
+"end": 27.5512,
+"beat": 63.5,
+"pitch": 58,
+"notes": [
+[
+63.5,
+0.5,
+58
+]
+]
+},
+{
+"cid": "c14",
+"nw": false,
+"syl": "bod",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 27.5862,
+"end": 27.9311,
+"beat": 64.0,
+"pitch": 58,
+"notes": [
+[
+64.0,
+1.0,
+58
+]
+]
+},
+{
+"cid": "c14",
+"nw": false,
+"syl": "y",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 27.9311,
+"end": 28.1035,
+"beat": 65.0,
+"pitch": 56,
+"notes": [
+[
+65.0,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c14",
+"nw": true,
+"syl": "knows",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 28.1035,
+"end": 28.2759,
+"beat": 65.5,
+"pitch": 58,
+"notes": [
+[
+65.5,
+0.5,
+58
+]
+]
+},
+{
+"cid": "c14",
+"nw": true,
+"syl": "ev",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 28.2759,
+"end": 28.5707,
+"beat": 66.0,
+"pitch": 58,
+"notes": [
+[
+66.0,
+1.0,
+58
+]
+]
+},
+{
+"cid": "c14",
+"nw": false,
+"syl": "ery",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 28.6207,
+"end": 28.7481,
+"beat": 67.0,
+"pitch": 56,
+"notes": [
+[
+67.0,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c14",
+"nw": false,
+"syl": "thing",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 28.7931,
+"end": 29.138,
+"beat": 67.5,
+"pitch": 58,
+"notes": [
+[
+67.5,
+1.0,
+58
+]
+]
+},
+{
+"cid": "c14",
+"nw": true,
+"syl": "you",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 29.138,
+"end": 29.2554,
+"beat": 68.5,
+"pitch": 56,
+"notes": [
+[
+68.5,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c14",
+"nw": true,
+"syl": "do",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 29.3104,
+"end": 29.5952,
+"beat": 69.0,
+"pitch": 58,
+"notes": [
+[
+69.0,
+1.0,
+58
+]
+]
+},
+{
+"cid": "c15",
+"nw": true,
+"syl": "They're",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 29.6552,
+"end": 29.7726,
+"beat": 70.0,
+"pitch": 56,
+"notes": [
+[
+70.0,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c15",
+"nw": true,
+"syl": "pre",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 29.8276,
+"end": 29.95,
+"beat": 70.5,
+"pitch": 56,
+"notes": [
+[
+70.5,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c15",
+"nw": false,
+"syl": "tend",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 30.0,
+"end": 30.1725,
+"beat": 71.0,
+"pitch": 56,
+"notes": [
+[
+71.0,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c15",
+"nw": false,
+"syl": "ing",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 30.1725,
+"end": 30.2999,
+"beat": 71.5,
+"pitch": 58,
+"notes": [
+[
+71.5,
+0.5,
+58
+]
+]
+},
+{
+"cid": "c15",
+"nw": true,
+"syl": "Tru",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 30.3449,
+"end": 30.5173,
+"beat": 72.0,
+"pitch": 56,
+"notes": [
+[
+72.0,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c15",
+"nw": false,
+"syl": "man",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 30.5173,
+"end": 31.0345,
+"beat": 72.5,
+"pitch": 54,
+"notes": [
+[
+72.5,
+0.5,
+54
+],
+[
+73.0,
+1.0,
+58
+]
+]
+},
+{
+"cid": "c16",
+"nw": true,
+"syl": "It's",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 31.2069,
+"end": 31.3793,
+"beat": 74.5,
+"pitch": 49,
+"notes": [
+[
+74.5,
+0.5,
+49
+]
+]
+},
+{
+"cid": "c16",
+"nw": true,
+"syl": "a",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 31.3793,
+"end": 31.4918,
+"beat": 75.0,
+"pitch": 54,
+"notes": [
+[
+75.0,
+0.5,
+54
+]
+]
+},
+{
+"cid": "c16",
+"nw": true,
+"syl": "set",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 31.5518,
+"end": 31.7142,
+"beat": 75.5,
+"pitch": 54,
+"notes": [
+[
+75.5,
+0.5,
+54
+]
+]
+},
+{
+"cid": "c16",
+"nw": true,
+"syl": "it's",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 31.7242,
+"end": 31.8966,
+"beat": 76.0,
+"pitch": 54,
+"notes": [
+[
+76.0,
+0.5,
+54
+]
+]
+},
+{
+"cid": "c16",
+"nw": true,
+"syl": "a",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 31.8966,
+"end": 32.039,
+"beat": 76.5,
+"pitch": 54,
+"notes": [
+[
+76.5,
+0.5,
+54
+]
+]
+},
+{
+"cid": "c16",
+"nw": true,
+"syl": "show",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 32.069,
+"end": 32.5762,
+"beat": 77.0,
+"pitch": 49,
+"notes": [
+[
+77.0,
+0.5,
+49
+],
+[
+77.5,
+1.0,
+54
+]
+]
+},
+{
+"cid": "c16",
+"nw": true,
+"syl": "Ev",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 32.5862,
+"end": 32.7587,
+"beat": 78.5,
+"pitch": 56,
+"notes": [
+[
+78.5,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c16",
+"nw": false,
+"syl": "ery",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 32.7587,
+"end": 32.9311,
+"beat": 79.0,
+"pitch": 56,
+"notes": [
+[
+79.0,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c16",
+"nw": false,
+"syl": "bod",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 32.9311,
+"end": 33.1035,
+"beat": 79.5,
+"pitch": 54,
+"notes": [
+[
+79.5,
+0.5,
+54
+]
+]
+},
+{
+"cid": "c16",
+"nw": false,
+"syl": "y's",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 33.1035,
+"end": 33.2359,
+"beat": 80.0,
+"pitch": 56,
+"notes": [
+[
+80.0,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c16",
+"nw": true,
+"syl": "watch",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 33.2759,
+"end": 33.7781,
+"beat": 80.5,
+"pitch": 58,
+"notes": [
+[
+80.5,
+1.0,
+58
+],
+[
+81.5,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c16",
+"nw": false,
+"syl": "ing",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 33.7931,
+"end": 33.9656,
+"beat": 82.0,
+"pitch": 54,
+"notes": [
+[
+82.0,
+0.5,
+54
+]
+]
+},
+{
+"cid": "c16",
+"nw": true,
+"syl": "you",
+"spk": "sylvia",
+"phrase": "B1",
+"t": 33.9656,
+"end": 35.5173,
+"beat": 82.5,
+"pitch": 58,
+"notes": [
+[
+82.5,
+4.5,
+58
+]
+]
+},
+{
+"cid": "c17",
+"nw": true,
+"syl": "Who",
+"spk": "truman",
+"phrase": "B2",
+"t": 36.3794,
+"end": 36.5518,
+"beat": 89.5,
+"pitch": 49,
+"notes": [
+[
+89.5,
+0.5,
+49
+]
+]
+},
+{
+"cid": "c17",
+"nw": true,
+"syl": "are",
+"spk": "truman",
+"phrase": "B2",
+"t": 36.5518,
+"end": 36.7242,
+"beat": 90.0,
+"pitch": 49,
+"notes": [
+[
+90.0,
+0.5,
+49
+]
+]
+},
+{
+"cid": "c17",
+"nw": true,
+"syl": "you",
+"spk": "truman",
+"phrase": "B2",
+"t": 36.7242,
+"end": 36.8816,
+"beat": 90.5,
+"pitch": 49,
+"notes": [
+[
+90.5,
+0.5,
+49
+]
+]
+},
+{
+"cid": "c18",
+"nw": true,
+"syl": "I",
+"spk": "christof",
+"phrase": "B2",
+"t": 36.8966,
+"end": 37.2414,
+"beat": 91.0,
+"pitch": 63,
+"notes": [
+[
+91.0,
+1.0,
+63
+]
+]
+},
+{
+"cid": "c18",
+"nw": true,
+"syl": "have",
+"spk": "christof",
+"phrase": "B2",
+"t": 37.2414,
+"end": 37.3588,
+"beat": 92.0,
+"pitch": 61,
+"notes": [
+[
+92.0,
+0.5,
+61
+]
+]
+},
+{
+"cid": "c18",
+"nw": true,
+"syl": "been",
+"spk": "christof",
+"phrase": "B2",
+"t": 37.4138,
+"end": 37.5313,
+"beat": 92.5,
+"pitch": 54,
+"notes": [
+[
+92.5,
+0.5,
+54
+]
+]
+},
+{
+"cid": "c18",
+"nw": true,
+"syl": "watch",
+"spk": "christof",
+"phrase": "B2",
+"t": 37.5863,
+"end": 37.6987,
+"beat": 93.0,
+"pitch": 56,
+"notes": [
+[
+93.0,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c18",
+"nw": false,
+"syl": "ing",
+"spk": "christof",
+"phrase": "B2",
+"t": 37.7587,
+"end": 37.8961,
+"beat": 93.5,
+"pitch": 58,
+"notes": [
+[
+93.5,
+0.5,
+58
+]
+]
+},
+{
+"cid": "c18",
+"nw": true,
+"syl": "you",
+"spk": "christof",
+"phrase": "B2",
+"t": 37.9311,
+"end": 38.1035,
+"beat": 94.0,
+"pitch": 58,
+"notes": [
+[
+94.0,
+0.5,
+58
+]
+]
+},
+{
+"cid": "c18",
+"nw": true,
+"syl": "your",
+"spk": "christof",
+"phrase": "B2",
+"t": 38.1035,
+"end": 38.2259,
+"beat": 94.5,
+"pitch": 56,
+"notes": [
+[
+94.5,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c18",
+"nw": true,
+"syl": "whole",
+"spk": "christof",
+"phrase": "B2",
+"t": 38.2759,
+"end": 38.4483,
+"beat": 95.0,
+"pitch": 56,
+"notes": [
+[
+95.0,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c18",
+"nw": true,
+"syl": "life",
+"spk": "christof",
+"phrase": "B2",
+"t": 38.4483,
+"end": 38.7682,
+"beat": 95.5,
+"pitch": 58,
+"notes": [
+[
+95.5,
+0.5,
+58
+],
+[
+96.0,
+0.5,
+58
+]
+]
+},
+{
+"cid": "c19",
+"nw": true,
+"syl": "I",
+"spk": "christof",
+"phrase": "B2",
+"t": 38.7932,
+"end": 38.8794,
+"beat": 96.5,
+"pitch": 56,
+"notes": [
+[
+96.5,
+0.25,
+56
+]
+]
+},
+{
+"cid": "c19",
+"nw": true,
+"syl": "was",
+"spk": "christof",
+"phrase": "B2",
+"t": 38.8794,
+"end": 38.9225,
+"beat": 96.75,
+"pitch": 56,
+"notes": [
+[
+96.75,
+0.25,
+56
+]
+]
+},
+{
+"cid": "c19",
+"nw": true,
+"syl": "watch",
+"spk": "christof",
+"phrase": "B2",
+"t": 38.9656,
+"end": 39.093,
+"beat": 97.0,
+"pitch": 56,
+"notes": [
+[
+97.0,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c19",
+"nw": false,
+"syl": "ing",
+"spk": "christof",
+"phrase": "B2",
+"t": 39.138,
+"end": 39.3104,
+"beat": 97.5,
+"pitch": 58,
+"notes": [
+[
+97.5,
+0.5,
+58
+]
+]
+},
+{
+"cid": "c19",
+"nw": true,
+"syl": "when",
+"spk": "christof",
+"phrase": "B2",
+"t": 39.3104,
+"end": 39.3966,
+"beat": 98.0,
+"pitch": 58,
+"notes": [
+[
+98.0,
+0.25,
+58
+]
+]
+},
+{
+"cid": "c19",
+"nw": true,
+"syl": "you",
+"spk": "christof",
+"phrase": "B2",
+"t": 39.3966,
+"end": 39.4397,
+"beat": 98.25,
+"pitch": 58,
+"notes": [
+[
+98.25,
+0.25,
+58
+]
+]
+},
+{
+"cid": "c19",
+"nw": true,
+"syl": "were",
+"spk": "christof",
+"phrase": "B2",
+"t": 39.4828,
+"end": 39.6002,
+"beat": 98.5,
+"pitch": 56,
+"notes": [
+[
+98.5,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c19",
+"nw": true,
+"syl": "born",
+"spk": "christof",
+"phrase": "B2",
+"t": 39.6552,
+"end": 39.925,
+"beat": 99.0,
+"pitch": 56,
+"notes": [
+[
+99.0,
+0.5,
+56
+],
+[
+99.5,
+0.5,
+58
+]
+]
+},
+{
+"cid": "c20",
+"nw": true,
+"syl": "I",
+"spk": "christof",
+"phrase": "B2",
+"t": 40.0,
+"end": 40.1725,
+"beat": 100.0,
+"pitch": 58,
+"notes": [
+[
+100.0,
+0.5,
+58
+]
+]
+},
+{
+"cid": "c20",
+"nw": true,
+"syl": "was",
+"spk": "christof",
+"phrase": "B2",
+"t": 40.1725,
+"end": 40.2899,
+"beat": 100.5,
+"pitch": 56,
+"notes": [
+[
+100.5,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c20",
+"nw": true,
+"syl": "watch",
+"spk": "christof",
+"phrase": "B2",
+"t": 40.3449,
+"end": 40.4823,
+"beat": 101.0,
+"pitch": 58,
+"notes": [
+[
+101.0,
+0.5,
+58
+]
+]
+},
+{
+"cid": "c20",
+"nw": false,
+"syl": "ing",
+"spk": "christof",
+"phrase": "B2",
+"t": 40.5173,
+"end": 40.6897,
+"beat": 101.5,
+"pitch": 58,
+"notes": [
+[
+101.5,
+0.5,
+58
+]
+]
+},
+{
+"cid": "c20",
+"nw": true,
+"syl": "when",
+"spk": "christof",
+"phrase": "B2",
+"t": 40.6897,
+"end": 40.8621,
+"beat": 102.0,
+"pitch": 56,
+"notes": [
+[
+102.0,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c20",
+"nw": true,
+"syl": "you",
+"spk": "christof",
+"phrase": "B2",
+"t": 40.8621,
+"end": 41.0195,
+"beat": 102.5,
+"pitch": 58,
+"notes": [
+[
+102.5,
+0.5,
+58
+]
+]
+},
+{
+"cid": "c20",
+"nw": true,
+"syl": "took",
+"spk": "christof",
+"phrase": "B2",
+"t": 41.0345,
+"end": 41.2069,
+"beat": 103.0,
+"pitch": 56,
+"notes": [
+[
+103.0,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c20",
+"nw": true,
+"syl": "your",
+"spk": "christof",
+"phrase": "B2",
+"t": 41.2069,
+"end": 41.2932,
+"beat": 103.5,
+"pitch": 58,
+"notes": [
+[
+103.5,
+0.5,
+58
+]
+]
+},
+{
+"cid": "c20",
+"nw": true,
+"syl": "first",
+"spk": "christof",
+"phrase": "B2",
+"t": 41.3794,
+"end": 41.5842,
+"beat": 104.0,
+"pitch": 56,
+"notes": [
+[
+104.0,
+0.5,
+56
+],
+[
+104.5,
+0.5,
+54
+]
+]
+},
+{
+"cid": "c20",
+"nw": true,
+"syl": "step",
+"spk": "christof",
+"phrase": "B2",
+"t": 41.7242,
+"end": 42.069,
+"beat": 105.0,
+"pitch": 58,
+"notes": [
+[
+105.0,
+1.0,
+58
+]
+]
+},
+{
+"cid": "c21",
+"nw": true,
+"syl": "You",
+"spk": "truman",
+"phrase": "B2",
+"t": 42.2414,
+"end": 42.3688,
+"beat": 106.5,
+"pitch": 49,
+"notes": [
+[
+106.5,
+0.5,
+49
+]
+]
+},
+{
+"cid": "c21",
+"nw": true,
+"syl": "nev",
+"spk": "truman",
+"phrase": "B2",
+"t": 42.4138,
+"end": 42.7587,
+"beat": 107.0,
+"pitch": 54,
+"notes": [
+[
+107.0,
+1.0,
+54
+]
+]
+},
+{
+"cid": "c21",
+"nw": false,
+"syl": "er",
+"spk": "truman",
+"phrase": "B2",
+"t": 42.7587,
+"end": 42.9311,
+"beat": 108.0,
+"pitch": 54,
+"notes": [
+[
+108.0,
+0.5,
+54
+]
+]
+},
+{
+"cid": "c21",
+"nw": true,
+"syl": "had",
+"spk": "truman",
+"phrase": "B2",
+"t": 42.9311,
+"end": 43.0173,
+"beat": 108.5,
+"pitch": 54,
+"notes": [
+[
+108.5,
+0.25,
+54
+]
+]
+},
+{
+"cid": "c21",
+"nw": true,
+"syl": "a",
+"spk": "truman",
+"phrase": "B2",
+"t": 43.0173,
+"end": 43.0785,
+"beat": 108.75,
+"pitch": 54,
+"notes": [
+[
+108.75,
+0.25,
+54
+]
+]
+},
+{
+"cid": "c21",
+"nw": true,
+"syl": "cam",
+"spk": "truman",
+"phrase": "B2",
+"t": 43.1035,
+"end": 43.2759,
+"beat": 109.0,
+"pitch": 49,
+"notes": [
+[
+109.0,
+0.5,
+49
+]
+]
+},
+{
+"cid": "c21",
+"nw": false,
+"syl": "era",
+"spk": "truman",
+"phrase": "B2",
+"t": 43.2759,
+"end": 43.4483,
+"beat": 109.5,
+"pitch": 54,
+"notes": [
+[
+109.5,
+0.5,
+54
+]
+]
+},
+{
+"cid": "c21",
+"nw": true,
+"syl": "in",
+"spk": "truman",
+"phrase": "B2",
+"t": 43.4483,
+"end": 43.6207,
+"beat": 110.0,
+"pitch": 54,
+"notes": [
+[
+110.0,
+0.5,
+54
+]
+]
+},
+{
+"cid": "c21",
+"nw": true,
+"syl": "my",
+"spk": "truman",
+"phrase": "B2",
+"t": 43.6207,
+"end": 43.7932,
+"beat": 110.5,
+"pitch": 56,
+"notes": [
+[
+110.5,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c21",
+"nw": true,
+"syl": "head",
+"spk": "truman",
+"phrase": "B2",
+"t": 43.9656,
+"end": 44.6552,
+"beat": 111.5,
+"pitch": 54,
+"notes": [
+[
+111.5,
+0.5,
+54
+],
+[
+112.0,
+0.5,
+56
+],
+[
+112.5,
+1.0,
+56
+]
+]
+},
+{
+"cid": "c22",
+"nw": true,
+"syl": "in",
+"spk": "truman",
+"phrase": "B2",
+"t": 44.6552,
+"end": 44.8276,
+"beat": 113.5,
+"pitch": 58,
+"notes": [
+[
+113.5,
+0.5,
+58
+]
+]
+},
+{
+"cid": "c22",
+"nw": true,
+"syl": "my",
+"spk": "truman",
+"phrase": "B2",
+"t": 44.8276,
+"end": 44.9551,
+"beat": 114.0,
+"pitch": 56,
+"notes": [
+[
+114.0,
+0.5,
+56
+]
+]
+},
+{
+"cid": "c22",
+"nw": true,
+"syl": "head",
+"spk": "truman",
+"phrase": "B2",
+"t": 45.0001,
+"end": 46.7242,
+"beat": 114.5,
+"pitch": 56,
+"notes": [
+[
+114.5,
+0.5,
+56
+],
+[
+115.0,
+4.5,
+54
+]
+]
+}
+]
+}

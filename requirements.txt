@@ -1,0 +1,23 @@
+# 音频 / DSP
+numpy==2.5.4
+scipy==1.18.1
+soundfile==0.14.0
+librosa==1.0.0
+pyworld==0.3.5          # WORLD 声码器（synth.py）
+mido==1.3.3             # MIDI 读取
+
+# 转写 / 对齐 / 分离 / 抠像（需 NVIDIA GPU + CUDA）
+openai-whisper          # transcribe.py / qc_whisper.py
+torch                   # 按显卡 CUDA 版本安装
+torchaudio              # falign.py（wav2vec2 强制对齐）
+demucs                  # 人声分离（htdemucs_ft）
+rembg                   # cutout.py（BiRefNet 抠像）
+onnxruntime-gpu         # matte_isnet.py（IS-Net 抠像）
+
+# 渲染
+opencv-python-headless==5.0.0.93
+skia-python==144.1      # PV 渲染引擎
+pillow==13.0.0
+
+# 工具
+yt-dlp==2026.10.26      # dl.sh

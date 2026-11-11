@@ -1,0 +1,99 @@
+{
+ "spoken": [
+  {
+   "id": "s01",
+   "t": 0.241,
+   "dur": 4.494,
+   "text": "An entire human life, recorded on an intricate network of hidden cameras",
+   "spk": "host"
+  },
+  {
+   "id": "s03",
+   "t": 47.931,
+   "dur": 1.439,
+   "text": "You can't leave, Truman.",
+   "spk": "christof"
+  },
+  {
+   "id": "s04",
+   "t": 50.69,
+   "dur": 1.046,
+   "text": "You belong here.",
+   "spk": "christof"
+  },
+  {
+   "id": "s05",
+   "t": 52.069,
+   "dur": 0.625,
+   "text": "With me.",
+   "spk": "christof"
+  },
+  {
+   "id": "s06",
+   "t": 53.448,
+   "dur": 0.738,
+   "text": "Talk to me.",
+   "spk": "christof"
+  },
+  {
+   "id": "s07",
+   "t": 54.828,
+   "dur": 0.746,
+   "text": "Say something.",
+   "spk": "christof"
+  },
+  {
+   "id": "s08",
+   "t": 56.207,
+   "dur": 1.881,
+   "text": "Say something, goddammit!",
+   "spk": "christof"
+  },
+  {
+   "id": "s09",
+   "t": 58.069,
+   "dur": 1.074,
+   "text": "You're on television!",
+   "spk": "christof"
+  },
+  {
+   "id": "s10",
+   "t": 59.241,
+   "dur": 1.637,
+   "text": "You're live to the whole world!",
+   "spk": "christof"
+  },
+  {
+   "id": "s11",
+   "t": 61.724,
+   "dur": 1.12,
+   "text": "In case I don't see ya",
+   "spk": "truman"
+  },
+  {
+   "id": "s12",
+   "t": 64.483,
+   "dur": 1.884,
+   "text": "Good afternoon, good evening, and good night.",
+   "spk": "truman"
+  },
+  {
+   "id": "s14",
+   "t": 76.212,
+   "dur": 0.816,
+   "text": "Cease transmission.",
+   "spk": "christof-staff"
+  },
+  {
+   "id": "s15",
+   "t": 78.012,
+   "dur": 0.76,
+   "text": "What else is on?",
+   "spk": "guard"
+  }
+ ],
+ "t_end": 75.86216,
+ "total": 80.06215419501133,
+ "spb": 0.344828,
+ "pre": 16
+}

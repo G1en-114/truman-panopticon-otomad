@@ -1,0 +1,19 @@
+# 仓库只收录：代码、文档、渲染必需素材与时间轴数据。
+# 片源、原曲、伴奏、MIDI、参考视频、工具、生成产物一律不入库。
+
+/*
+
+!/.gitignore
+!/README.md
+!/LICENSE
+!/requirements.txt
+!scripts/
+!assets/
+!work/
+
+work/*
+!work/timeline.json
+!work/spoken.json
+
+__pycache__/
+*.pyc
