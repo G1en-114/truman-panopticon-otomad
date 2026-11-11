@@ -1,0 +1,926 @@
+{
+ "c01": [
+  {
+   "syl": "We",
+   "start": 1.113,
+   "end": 1.194,
+   "vowel": 1.173
+  },
+  {
+   "syl": "ac",
+   "start": 1.274,
+   "end": 1.314,
+   "vowel": 1.274
+  },
+  {
+   "syl": "cept",
+   "start": 1.395,
+   "end": 1.596,
+   "vowel": 1.475
+  },
+  {
+   "syl": "the",
+   "start": 1.657,
+   "end": 1.717,
+   "vowel": 1.697
+  },
+  {
+   "syl": "re",
+   "start": 1.777,
+   "end": 1.858,
+   "vowel": 1.838
+  },
+  {
+   "syl": "al",
+   "start": 1.959,
+   "end": 2.039,
+   "vowel": 1.959
+  },
+  {
+   "syl": "i",
+   "start": 2.079,
+   "end": 2.099,
+   "vowel": 2.079
+  },
+  {
+   "syl": "ty",
+   "start": 2.12,
+   "end": 2.2,
+   "vowel": 2.18
+  },
+  {
+   "syl": "of",
+   "start": 2.281,
+   "end": 2.321,
+   "vowel": 2.281
+  },
+  {
+   "syl": "the",
+   "start": 2.361,
+   "end": 2.421,
+   "vowel": 2.401
+  },
+  {
+   "syl": "world",
+   "start": 2.482,
+   "end": 2.683,
+   "vowel": 2.542
+  },
+  {
+   "syl": "with",
+   "start": 2.764,
+   "end": 2.864,
+   "vowel": 2.804
+  },
+  {
+   "syl": "which",
+   "start": 2.925,
+   "end": 3.045,
+   "vowel": 2.965
+  },
+  {
+   "syl": "we're",
+   "start": 3.086,
+   "end": 3.267,
+   "vowel": 3.126
+  },
+  {
+   "syl": "pre",
+   "start": 3.287,
+   "end": 3.368,
+   "vowel": 3.347
+  },
+  {
+   "syl": "sent",
+   "start": 3.388,
+   "end": 3.569,
+   "vowel": 3.468
+  },
+  {
+   "syl": "ed",
+   "start": 3.629,
+   "end": 3.669,
+   "vowel": 3.629
+  }
+ ],
+ "c02": [
+  {
+   "syl": "It's",
+   "start": 1.056,
+   "end": 1.177,
+   "vowel": 1.056
+  },
+  {
+   "syl": "as",
+   "start": 1.238,
+   "end": 1.279,
+   "vowel": 1.238
+  },
+  {
+   "syl": "sim",
+   "start": 1.34,
+   "end": 1.441,
+   "vowel": 1.401
+  },
+  {
+   "syl": "ple",
+   "start": 1.482,
+   "end": 1.583,
+   "vowel": 1.563
+  },
+  {
+   "syl": "as",
+   "start": 1.644,
+   "end": 1.684,
+   "vowel": 1.644
+  },
+  {
+   "syl": "that",
+   "start": 1.745,
+   "end": 1.928,
+   "vowel": 1.867
+  }
+ ],
+ "c03": [
+  {
+   "syl": "It's",
+   "start": 0.936,
+   "end": 1.058,
+   "vowel": 0.936
+  },
+  {
+   "syl": "all",
+   "start": 1.12,
+   "end": 1.222,
+   "vowel": 1.12
+  },
+  {
+   "syl": "real",
+   "start": 1.324,
+   "end": 1.528,
+   "vowel": 1.405
+  }
+ ],
+ "c04": [
+  {
+   "syl": "No",
+   "start": 1.274,
+   "end": 1.355,
+   "vowel": 1.335
+  },
+  {
+   "syl": "scripts",
+   "start": 1.456,
+   "end": 1.858,
+   "vowel": 1.657
+  },
+  {
+   "syl": "no",
+   "start": 2.744,
+   "end": 2.825,
+   "vowel": 2.805
+  },
+  {
+   "syl": "cue",
+   "start": 2.905,
+   "end": 3.087,
+   "vowel": 3.026
+  },
+  {
+   "syl": "cards",
+   "start": 3.107,
+   "end": 3.509,
+   "vowel": 3.328
+  }
+ ],
+ "c05": [
+  {
+   "syl": "it's",
+   "start": 0.814,
+   "end": 0.937,
+   "vowel": 0.814
+  },
+  {
+   "syl": "gen",
+   "start": 1.06,
+   "end": 1.224,
+   "vowel": 1.162
+  },
+  {
+   "syl": "u",
+   "start": 1.265,
+   "end": 1.306,
+   "vowel": 1.265
+  },
+  {
+   "syl": "ine",
+   "start": 1.367,
+   "end": 1.429,
+   "vowel": 1.367
+  }
+ ],
+ "c06": [
+  {
+   "syl": "Cue",
+   "start": 1.057,
+   "end": 1.281,
+   "vowel": 1.199
+  },
+  {
+   "syl": "the",
+   "start": 1.342,
+   "end": 1.423,
+   "vowel": 1.403
+  },
+  {
+   "syl": "sun",
+   "start": 1.484,
+   "end": 1.687,
+   "vowel": 1.606
+  }
+ ],
+ "c07": [
+  {
+   "syl": "Good",
+   "start": 1.017,
+   "end": 1.201,
+   "vowel": 1.038
+  },
+  {
+   "syl": "mor",
+   "start": 1.242,
+   "end": 1.405,
+   "vowel": 1.344
+  },
+  {
+   "syl": "ning",
+   "start": 1.466,
+   "end": 1.609,
+   "vowel": 1.548
+  }
+ ],
+ "c08": [
+  {
+   "syl": "oth",
+   "start": 0.771,
+   "end": 0.871,
+   "vowel": 0.771
+  },
+  {
+   "syl": "er",
+   "start": 0.892,
+   "end": 0.932,
+   "vowel": 0.892
+  },
+  {
+   "syl": "beau",
+   "start": 0.992,
+   "end": 1.133,
+   "vowel": 1.052
+  },
+  {
+   "syl": "ti",
+   "start": 1.153,
+   "end": 1.213,
+   "vowel": 1.193
+  },
+  {
+   "syl": "ful",
+   "start": 1.274,
+   "end": 1.374,
+   "vowel": 1.334
+  },
+  {
+   "syl": "day",
+   "start": 1.455,
+   "end": 1.616,
+   "vowel": 1.575
+  },
+  {
+   "syl": "in",
+   "start": 1.696,
+   "end": 1.757,
+   "vowel": 1.696
+  },
+  {
+   "syl": "par",
+   "start": 1.837,
+   "end": 2.018,
+   "vowel": 1.938
+  },
+  {
+   "syl": "a",
+   "start": 2.058,
+   "end": 2.078,
+   "vowel": 2.058
+  },
+  {
+   "syl": "dise",
+   "start": 2.119,
+   "end": 2.3,
+   "vowel": 2.199
+  }
+ ],
+ "c10": [
+  {
+   "syl": "Oh",
+   "start": 1.114,
+   "end": 1.194,
+   "vowel": 1.114
+  },
+  {
+   "syl": "and",
+   "start": 1.215,
+   "end": 1.295,
+   "vowel": 1.215
+  },
+  {
+   "syl": "in",
+   "start": 1.335,
+   "end": 1.376,
+   "vowel": 1.335
+  },
+  {
+   "syl": "case",
+   "start": 1.416,
+   "end": 1.598,
+   "vowel": 1.497
+  },
+  {
+   "syl": "I",
+   "start": 1.658,
+   "end": 1.678,
+   "vowel": 1.658
+  },
+  {
+   "syl": "don't",
+   "start": 1.739,
+   "end": 1.9,
+   "vowel": 1.759
+  },
+  {
+   "syl": "see",
+   "start": 1.94,
+   "end": 2.101,
+   "vowel": 2.001
+  },
+  {
+   "syl": "you",
+   "start": 2.142,
+   "end": 2.222,
+   "vowel": 2.142
+  },
+  {
+   "syl": "good",
+   "start": 2.505,
+   "end": 2.646,
+   "vowel": 2.545
+  },
+  {
+   "syl": "af",
+   "start": 2.746,
+   "end": 2.807,
+   "vowel": 2.746
+  },
+  {
+   "syl": "ter",
+   "start": 2.867,
+   "end": 2.968,
+   "vowel": 2.928
+  },
+  {
+   "syl": "noon",
+   "start": 3.008,
+   "end": 3.17,
+   "vowel": 3.029
+  }
+ ],
+ "c11": [
+  {
+   "syl": "good",
+   "start": 0.793,
+   "end": 0.915,
+   "vowel": 0.813
+  },
+  {
+   "syl": "eve",
+   "start": 0.996,
+   "end": 1.098,
+   "vowel": 0.996
+  },
+  {
+   "syl": "ning",
+   "start": 1.118,
+   "end": 1.24,
+   "vowel": 1.159
+  },
+  {
+   "syl": "and",
+   "start": 1.28,
+   "end": 1.362,
+   "vowel": 1.28
+  },
+  {
+   "syl": "good",
+   "start": 1.402,
+   "end": 1.524,
+   "vowel": 1.423
+  },
+  {
+   "syl": "night",
+   "start": 1.585,
+   "end": 1.768,
+   "vowel": 1.646
+  }
+ ],
+ "c12": [
+  {
+   "syl": "Tru",
+   "start": 1.04,
+   "end": 1.204,
+   "vowel": 1.183
+  },
+  {
+   "syl": "man",
+   "start": 1.286,
+   "end": 1.409,
+   "vowel": 1.368
+  }
+ ],
+ "c13": [
+  {
+   "syl": "Lis",
+   "start": 1.017,
+   "end": 1.099,
+   "vowel": 1.058
+  },
+  {
+   "syl": "ten",
+   "start": 1.139,
+   "end": 1.241,
+   "vowel": 1.2
+  },
+  {
+   "syl": "to",
+   "start": 1.323,
+   "end": 1.384,
+   "vowel": 1.363
+  },
+  {
+   "syl": "me",
+   "start": 1.445,
+   "end": 1.547,
+   "vowel": 1.526
+  }
+ ],
+ "c14": [
+  {
+   "syl": "Ev",
+   "start": 0.893,
+   "end": 0.954,
+   "vowel": 0.893
+  },
+  {
+   "syl": "ery",
+   "start": 0.954,
+   "end": 1.055,
+   "vowel": 0.954
+  },
+  {
+   "syl": "bod",
+   "start": 1.095,
+   "end": 1.196,
+   "vowel": 1.136
+  },
+  {
+   "syl": "y",
+   "start": 1.217,
+   "end": 1.237,
+   "vowel": 1.217
+  },
+  {
+   "syl": "knows",
+   "start": 1.318,
+   "end": 1.48,
+   "vowel": 1.358
+  },
+  {
+   "syl": "ev",
+   "start": 1.601,
+   "end": 1.662,
+   "vowel": 1.601
+  },
+  {
+   "syl": "ery",
+   "start": 1.682,
+   "end": 1.783,
+   "vowel": 1.682
+  },
+  {
+   "syl": "thing",
+   "start": 1.844,
+   "end": 1.965,
+   "vowel": 1.884
+  },
+  {
+   "syl": "you",
+   "start": 2.005,
+   "end": 2.086,
+   "vowel": 2.005
+  },
+  {
+   "syl": "do",
+   "start": 2.127,
+   "end": 2.228,
+   "vowel": 2.208
+  }
+ ],
+ "c15": [
+  {
+   "syl": "They're",
+   "start": 1.015,
+   "end": 1.218,
+   "vowel": 1.056
+  },
+  {
+   "syl": "pre",
+   "start": 1.238,
+   "end": 1.339,
+   "vowel": 1.319
+  },
+  {
+   "syl": "tend",
+   "start": 1.38,
+   "end": 1.583,
+   "vowel": 1.481
+  },
+  {
+   "syl": "ing",
+   "start": 1.623,
+   "end": 1.704,
+   "vowel": 1.623
+  },
+  {
+   "syl": "Tru",
+   "start": 1.745,
+   "end": 1.826,
+   "vowel": 1.805
+  },
+  {
+   "syl": "man",
+   "start": 1.968,
+   "end": 2.049,
+   "vowel": 2.008
+  }
+ ],
+ "c16": [
+  {
+   "syl": "It's",
+   "start": 0.791,
+   "end": 0.872,
+   "vowel": 0.791
+  },
+  {
+   "syl": "a",
+   "start": 0.952,
+   "end": 0.973,
+   "vowel": 0.952
+  },
+  {
+   "syl": "set",
+   "start": 1.093,
+   "end": 1.255,
+   "vowel": 1.174
+  },
+  {
+   "syl": "it's",
+   "start": 1.335,
+   "end": 1.517,
+   "vowel": 1.335
+  },
+  {
+   "syl": "a",
+   "start": 1.577,
+   "end": 1.597,
+   "vowel": 1.577
+  },
+  {
+   "syl": "show",
+   "start": 1.638,
+   "end": 1.94,
+   "vowel": 1.879
+  },
+  {
+   "syl": "Ev",
+   "start": 2.121,
+   "end": 2.182,
+   "vowel": 2.121
+  },
+  {
+   "syl": "ery",
+   "start": 2.182,
+   "end": 2.282,
+   "vowel": 2.182
+  },
+  {
+   "syl": "bod",
+   "start": 2.323,
+   "end": 2.423,
+   "vowel": 2.343
+  },
+  {
+   "syl": "y's",
+   "start": 2.423,
+   "end": 2.524,
+   "vowel": 2.423
+  },
+  {
+   "syl": "watch",
+   "start": 2.544,
+   "end": 2.806,
+   "vowel": 2.685
+  },
+  {
+   "syl": "ing",
+   "start": 2.947,
+   "end": 3.048,
+   "vowel": 2.947
+  },
+  {
+   "syl": "you",
+   "start": 3.068,
+   "end": 3.149,
+   "vowel": 3.068
+  }
+ ],
+ "c17": [
+  {
+   "syl": "Who",
+   "start": 1.3,
+   "end": 1.421,
+   "vowel": 1.401
+  },
+  {
+   "syl": "are",
+   "start": 1.584,
+   "end": 1.665,
+   "vowel": 1.584
+  },
+  {
+   "syl": "you",
+   "start": 1.746,
+   "end": 1.827,
+   "vowel": 1.746
+  }
+ ],
+ "c18": [
+  {
+   "syl": "I",
+   "start": 1.295,
+   "end": 1.315,
+   "vowel": 1.295
+  },
+  {
+   "syl": "have",
+   "start": 1.376,
+   "end": 1.497,
+   "vowel": 1.416
+  },
+  {
+   "syl": "been",
+   "start": 1.537,
+   "end": 1.658,
+   "vowel": 1.557
+  },
+  {
+   "syl": "watch",
+   "start": 1.718,
+   "end": 1.94,
+   "vowel": 1.799
+  },
+  {
+   "syl": "ing",
+   "start": 1.98,
+   "end": 2.061,
+   "vowel": 1.98
+  },
+  {
+   "syl": "you",
+   "start": 2.121,
+   "end": 2.222,
+   "vowel": 2.121
+  },
+  {
+   "syl": "your",
+   "start": 2.323,
+   "end": 2.484,
+   "vowel": 2.323
+  },
+  {
+   "syl": "whole",
+   "start": 2.565,
+   "end": 2.766,
+   "vowel": 2.666
+  },
+  {
+   "syl": "life",
+   "start": 2.827,
+   "end": 3.089,
+   "vowel": 2.948
+  }
+ ],
+ "c19": [
+  {
+   "syl": "I",
+   "start": 1.316,
+   "end": 1.336,
+   "vowel": 1.316
+  },
+  {
+   "syl": "was",
+   "start": 1.417,
+   "end": 1.518,
+   "vowel": 1.457
+  },
+  {
+   "syl": "watch",
+   "start": 1.599,
+   "end": 1.821,
+   "vowel": 1.7
+  },
+  {
+   "syl": "ing",
+   "start": 1.861,
+   "end": 1.922,
+   "vowel": 1.861
+  },
+  {
+   "syl": "when",
+   "start": 1.982,
+   "end": 2.083,
+   "vowel": 2.043
+  },
+  {
+   "syl": "you",
+   "start": 2.123,
+   "end": 2.204,
+   "vowel": 2.123
+  },
+  {
+   "syl": "were",
+   "start": 2.265,
+   "end": 2.365,
+   "vowel": 2.305
+  },
+  {
+   "syl": "born",
+   "start": 2.426,
+   "end": 2.789,
+   "vowel": 2.608
+  }
+ ],
+ "c20": [
+  {
+   "syl": "I",
+   "start": 1.315,
+   "end": 1.335,
+   "vowel": 1.315
+  },
+  {
+   "syl": "was",
+   "start": 1.395,
+   "end": 1.496,
+   "vowel": 1.435
+  },
+  {
+   "syl": "watch",
+   "start": 1.576,
+   "end": 1.798,
+   "vowel": 1.677
+  },
+  {
+   "syl": "ing",
+   "start": 1.838,
+   "end": 1.918,
+   "vowel": 1.838
+  },
+  {
+   "syl": "when",
+   "start": 1.959,
+   "end": 2.059,
+   "vowel": 2.019
+  },
+  {
+   "syl": "you",
+   "start": 2.1,
+   "end": 2.18,
+   "vowel": 2.1
+  },
+  {
+   "syl": "took",
+   "start": 2.261,
+   "end": 2.402,
+   "vowel": 2.281
+  },
+  {
+   "syl": "your",
+   "start": 2.462,
+   "end": 2.603,
+   "vowel": 2.462
+  },
+  {
+   "syl": "first",
+   "start": 2.684,
+   "end": 2.985,
+   "vowel": 2.804
+  },
+  {
+   "syl": "step",
+   "start": 3.207,
+   "end": 3.489,
+   "vowel": 3.408
+  }
+ ],
+ "c21": [
+  {
+   "syl": "You",
+   "start": 0.953,
+   "end": 1.034,
+   "vowel": 0.953
+  },
+  {
+   "syl": "nev",
+   "start": 1.156,
+   "end": 1.277,
+   "vowel": 1.216
+  },
+  {
+   "syl": "er",
+   "start": 1.297,
+   "end": 1.358,
+   "vowel": 1.297
+  },
+  {
+   "syl": "had",
+   "start": 1.398,
+   "end": 1.479,
+   "vowel": 1.439
+  },
+  {
+   "syl": "a",
+   "start": 1.52,
+   "end": 1.54,
+   "vowel": 1.52
+  },
+  {
+   "syl": "cam",
+   "start": 1.58,
+   "end": 1.702,
+   "vowel": 1.641
+  },
+  {
+   "syl": "era",
+   "start": 1.702,
+   "end": 1.823,
+   "vowel": 1.702
+  },
+  {
+   "syl": "in",
+   "start": 1.904,
+   "end": 1.944,
+   "vowel": 1.904
+  },
+  {
+   "syl": "my",
+   "start": 1.985,
+   "end": 2.065,
+   "vowel": 2.045
+  },
+  {
+   "syl": "head",
+   "start": 2.146,
+   "end": 2.409,
+   "vowel": 2.227
+  }
+ ],
+ "c22": [
+  {
+   "syl": "in",
+   "start": 0.876,
+   "end": 0.937,
+   "vowel": 0.876
+  },
+  {
+   "syl": "my",
+   "start": 0.998,
+   "end": 1.08,
+   "vowel": 1.06
+  },
+  {
+   "syl": "head",
+   "start": 1.162,
+   "end": 1.428,
+   "vowel": 1.244
+  }
+ ]
+}

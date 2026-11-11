@@ -1,5 +1,5 @@
-# 仓库只收录：代码、文档、渲染必需素材与时间轴数据。
-# 片源、原曲、伴奏、MIDI、参考视频、工具、生成产物一律不入库。
+# 仓库只收录：代码、文档、渲染必需素材、时间轴数据与音频制品。
+# 片源、原曲、伴奏、MIDI、参考视频、整片音频分离结果、工具、视频成品一律不入库。
 
 /*
 
@@ -10,10 +10,27 @@
 !scripts/
 !assets/
 !work/
+!out/
 
+# work/：只收时间轴 / 转写 / 对齐数据与合成干声；整片音频、切片等中间产物不入库
 work/*
 !work/timeline.json
 !work/spoken.json
+!work/whisper.json
+!work/stems/
+work/stems/*
+!work/stems/lead.wav
+!work/stems/harm.wav
+!work/stems/sub.wav
+!work/stems/up.wav
+!work/clips/
+work/clips/*
+!work/clips/index.json
+!work/clips/align.json
+
+# out/：只收最终混音；视频预览等成品不入库
+out/*
+!out/audio_v1.wav
 
 __pycache__/
 *.pyc

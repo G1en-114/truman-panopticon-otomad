@@ -1,0 +1,371 @@
+{
+ "c01": {
+  "pos": 0.0,
+  "dur": 4.38,
+  "src_a": 3970.74,
+  "src_b": 3973.62,
+  "pad": 0.75,
+  "spk": "christof",
+  "text": "We ac-cept the re-al-i-ty of the world with which we're pre-sent-ed"
+ },
+ "c02": {
+  "pos": 4.88,
+  "dur": 2.72,
+  "src_a": 3973.9,
+  "src_b": 3975.12,
+  "pad": 0.75,
+  "spk": "christof",
+  "text": "It's as sim-ple as that"
+ },
+ "c03": {
+  "pos": 8.1,
+  "dur": 2.28,
+  "src_a": 119.3,
+  "src_b": 120.08,
+  "pad": 0.75,
+  "spk": "marlon",
+  "text": "It's all real"
+ },
+ "c04": {
+  "pos": 10.88,
+  "dur": 4.22,
+  "src_a": 36.9,
+  "src_b": 39.62,
+  "pad": 0.75,
+  "spk": "christof",
+  "text": "No scripts no cue cards"
+ },
+ "c05": {
+  "pos": 15.6,
+  "dur": 2.12,
+  "src_a": 42.1,
+  "src_b": 42.72,
+  "pad": 0.75,
+  "spk": "christof",
+  "text": "it's gen-u-ine"
+ },
+ "c06": {
+  "pos": 18.22,
+  "dur": 2.48,
+  "src_a": 4808.86,
+  "src_b": 4809.84,
+  "pad": 0.75,
+  "spk": "christof",
+  "text": "Cue the sun"
+ },
+ "c07": {
+  "pos": 21.2,
+  "dur": 2.3,
+  "src_a": 167.72,
+  "src_b": 168.52,
+  "pad": 0.75,
+  "spk": "truman",
+  "text": "Good mor-ning"
+ },
+ "c08": {
+  "pos": 24.0,
+  "dur": 2.99,
+  "src_a": 1769.63,
+  "src_b": 1771.12,
+  "pad": 0.75,
+  "spk": "radio",
+  "text": "oth-er beau-ti-ful day in par-a-dise"
+ },
+ "c10": {
+  "pos": 27.49,
+  "dur": 3.8400226757369613,
+  "src_a": 168.92,
+  "src_b": 171.26,
+  "pad": 0.75,
+  "spk": "truman",
+  "text": "Oh and in case I don't see you good af-ter-noon"
+ },
+ "c11": {
+  "pos": 31.830022675736963,
+  "dur": 2.5,
+  "src_a": 171.4,
+  "src_b": 172.4,
+  "pad": 0.75,
+  "spk": "truman",
+  "text": "good eve-ning and good night"
+ },
+ "c12": {
+  "pos": 34.83002267573696,
+  "dur": 2.1,
+  "src_a": 1587.08,
+  "src_b": 1587.68,
+  "pad": 0.75,
+  "spk": "sylvia",
+  "text": "Tru-man"
+ },
+ "c13": {
+  "pos": 37.430022675736964,
+  "dur": 2.36,
+  "src_a": 1588.5,
+  "src_b": 1589.36,
+  "pad": 0.75,
+  "spk": "sylvia",
+  "text": "Lis-ten to me"
+ },
+ "c14": {
+  "pos": 40.290022675736964,
+  "dur": 3.04,
+  "src_a": 1590.7,
+  "src_b": 1592.24,
+  "pad": 0.75,
+  "spk": "sylvia",
+  "text": "Ev-ery-bod-y knows ev-ery-thing you do"
+ },
+ "c15": {
+  "pos": 43.83002267573696,
+  "dur": 2.78,
+  "src_a": 1592.38,
+  "src_b": 1593.66,
+  "pad": 0.75,
+  "spk": "sylvia",
+  "text": "They're pre-tend-ing Tru-man"
+ },
+ "c16": {
+  "pos": 47.110022675736964,
+  "dur": 3.92,
+  "src_a": 1618.1,
+  "src_b": 1620.52,
+  "pad": 0.75,
+  "spk": "sylvia",
+  "text": "It's a set it's a show Ev-ery-bod-y's watch-ing you"
+ },
+ "c17": {
+  "pos": 51.53002267573696,
+  "dur": 2.66,
+  "src_a": 5542.7,
+  "src_b": 5543.86,
+  "pad": 0.75,
+  "spk": "truman",
+  "text": "Who are you"
+ },
+ "c18": {
+  "pos": 54.69002267573696,
+  "dur": 3.86,
+  "src_a": 5615.82,
+  "src_b": 5618.18,
+  "pad": 0.75,
+  "spk": "christof",
+  "text": "I have been watch-ing you your whole life"
+ },
+ "c19": {
+  "pos": 59.05002267573696,
+  "dur": 3.5,
+  "src_a": 5621.06,
+  "src_b": 5623.06,
+  "pad": 0.75,
+  "spk": "christof",
+  "text": "I was watch-ing when you were born"
+ },
+ "c20": {
+  "pos": 63.05002267573696,
+  "dur": 4.299977324263039,
+  "src_a": 5625.68,
+  "src_b": 5628.48,
+  "pad": 0.75,
+  "spk": "christof",
+  "text": "I was watch-ing when you took your first step ~"
+ },
+ "c21": {
+  "pos": 67.85,
+  "dur": 3.12,
+  "src_a": 5597.38,
+  "src_b": 5599.0,
+  "pad": 0.75,
+  "spk": "truman",
+  "text": "You nev-er had a cam-era in my head ~"
+ },
+ "c22": {
+  "pos": 71.47,
+  "dur": 2.14,
+  "src_a": 5598.36,
+  "src_b": 5599.0,
+  "pad": 0.75,
+  "spk": "truman",
+  "text": "in my head ~"
+ },
+ "s01": {
+  "pos": 74.11,
+  "dur": 6.05,
+  "src_a": 3696.5,
+  "src_b": 3701.05,
+  "pad": 0.75,
+  "spk": "host",
+  "text": "An entire human life, recorded on an intricate network of hidden cameras"
+ },
+ "s02": {
+  "pos": 80.66,
+  "dur": 8.9,
+  "src_a": 3700.95,
+  "src_b": 3708.35,
+  "pad": 0.75,
+  "spk": "host",
+  "text": "and broadcast live and unedited, 24 hours a day, seven days a week, to an audience around the globe"
+ },
+ "s03": {
+  "pos": 90.06,
+  "dur": 3.36,
+  "src_a": 5644.84,
+  "src_b": 5646.7,
+  "pad": 0.75,
+  "spk": "christof",
+  "text": "You can't leave, Truman."
+ },
+ "s04": {
+  "pos": 93.92,
+  "dur": 2.54,
+  "src_a": 5650.12,
+  "src_b": 5651.16,
+  "pad": 0.75,
+  "spk": "christof",
+  "text": "You belong here."
+ },
+ "s05": {
+  "pos": 96.96,
+  "dur": 2.54,
+  "src_a": 5654.6,
+  "src_b": 5655.64,
+  "pad": 0.75,
+  "spk": "christof",
+  "text": "With me."
+ },
+ "s06": {
+  "pos": 100.0,
+  "dur": 2.6399773242630387,
+  "src_a": 5658.26,
+  "src_b": 5659.4,
+  "pad": 0.75,
+  "spk": "christof",
+  "text": "Talk to me."
+ },
+ "s07": {
+  "pos": 103.13997732426304,
+  "dur": 2.6600226757369616,
+  "src_a": 5660.94,
+  "src_b": 5662.1,
+  "pad": 0.75,
+  "spk": "christof",
+  "text": "Say something."
+ },
+ "s08": {
+  "pos": 106.3,
+  "dur": 3.26,
+  "src_a": 5667.08,
+  "src_b": 5668.84,
+  "pad": 0.75,
+  "spk": "christof",
+  "text": "Say something, goddammit!"
+ },
+ "s09": {
+  "pos": 110.06,
+  "dur": 2.5999773242630386,
+  "src_a": 5668.84,
+  "src_b": 5669.94,
+  "pad": 0.75,
+  "spk": "christof",
+  "text": "You're on television!"
+ },
+ "s10": {
+  "pos": 113.15997732426304,
+  "dur": 3.32,
+  "src_a": 5670.38,
+  "src_b": 5672.2,
+  "pad": 0.75,
+  "spk": "christof",
+  "text": "You're live to the whole world!"
+ },
+ "s11": {
+  "pos": 116.97997732426303,
+  "dur": 2.94,
+  "src_a": 5689.84,
+  "src_b": 5691.28,
+  "pad": 0.75,
+  "spk": "truman",
+  "text": "In case I don't see ya"
+ },
+ "s12": {
+  "pos": 120.41997732426304,
+  "dur": 3.74,
+  "src_a": 5692.68,
+  "src_b": 5694.92,
+  "pad": 0.75,
+  "spk": "truman",
+  "text": "Good afternoon, good evening, and good night."
+ },
+ "s13": {
+  "pos": 124.65997732426304,
+  "dur": 14.5,
+  "src_a": 5699.0,
+  "src_b": 5712.0,
+  "pad": 0.75,
+  "spk": "crowd",
+  "text": "(cheering)"
+ },
+ "s14": {
+  "pos": 139.65997732426302,
+  "dur": 2.54,
+  "src_a": 5747.04,
+  "src_b": 5748.08,
+  "pad": 0.75,
+  "spk": "christof-staff",
+  "text": "Cease transmission."
+ },
+ "s15": {
+  "pos": 142.69997732426305,
+  "dur": 2.38,
+  "src_a": 5757.32,
+  "src_b": 5758.2,
+  "pad": 0.75,
+  "spk": "guard",
+  "text": "What else is on?"
+ },
+ "s16": {
+  "pos": 145.57997732426304,
+  "dur": 3.16,
+  "src_a": 4056.96,
+  "src_b": 4058.62,
+  "pad": 0.75,
+  "spk": "sylvia",
+  "text": "He's not a performer. He's a prisoner."
+ },
+ "s17": {
+  "pos": 149.23997732426304,
+  "dur": 2.86,
+  "src_a": 5556.3,
+  "src_b": 5557.66,
+  "pad": 0.75,
+  "spk": "christof",
+  "text": "You're the star."
+ },
+ "s18": {
+  "pos": 152.59997732426305,
+  "dur": 5.4,
+  "src_a": 1775.7,
+  "src_b": 1779.6,
+  "pad": 0.75,
+  "spk": "radio",
+  "text": "Good, good, good, good, good, good"
+ },
+ "s19": {
+  "pos": 158.49997732426303,
+  "dur": 3.9,
+  "src_a": 2816.9,
+  "src_b": 2819.3,
+  "pad": 0.75,
+  "spk": "truman",
+  "text": "Ha ha! Ha!"
+ },
+ "s20": {
+  "pos": 162.89997732426303,
+  "dur": 2.48,
+  "src_a": 4808.86,
+  "src_b": 4809.84,
+  "pad": 0.75,
+  "spk": "christof",
+  "text": "Cue the sun"
+ }
+}
